@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  prova2
-//
-//  Created by Andrea Lissak on 14/11/16.
-//  Copyright © 2016 Andrea Lissak. All rights reserved.
-//
 
 #include <iostream>
 #ifdef __APPLE__
